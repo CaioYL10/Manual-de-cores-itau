@@ -12,6 +12,8 @@
   <tr>
     <td>
       <img src="Imagens/Contraste1.png" alt="Explicação contraste" width="300"/> 
+      <td>
+        <td>
       <img src="Imagens/Contraste2.png" alt="Explicação contraste" width="300"/> 
     </td>
     <td>
