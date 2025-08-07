@@ -12,7 +12,7 @@
   <tr>
     <td>
       <img src="Imagens/Contraste1.png" alt="Explicação contraste" width="300"/> 
-      <img src="Imagens/Contraste2.png" alt="Explicação contraste" width="250"/> 
+      <img src="Imagens/Contraste2.png" alt="Explicação contraste" width="300"/> 
       <img src="Imagens/Contraste3.png" alt="Explicação contraste" width="300"/> 
     </td>
   </tr>
