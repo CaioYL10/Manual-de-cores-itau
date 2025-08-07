@@ -11,14 +11,20 @@
 <table>
   <tr>
     <td>
-      <img src="imagens/Contraste1.jpeg" alt="Explicação contraste" width="300"/><br><br> 
-      <img src="imagens/Contraste2.jpeg" alt="Explicação contraste" width="300"/> 
+      <img src="Imagens/Contraste1.png" alt="Explicação contraste" width="300"/> 
+      <img src="Imagens/Contraste2.png" alt="Explicação contraste" width="300"/> 
     </td>
     <td>
-      <img src="imagens/Contraste3.jpeg" alt="Explicação contraste" width="300"/> 
+      <img src="Imagens/Contraste3.png" alt="Explicação contraste" width="300"/> 
     </td>
   </tr>
 </table>
+
+---
+
+⬜🟧 Na primeira imagem foi feita a mesclagem com o fundo na cor light e as letras na cor primário ⬜🟧<br>
+<br>🟧⬜ Na segunda imagem foi feita a mesclagem com o fundo na cor primário e as letras na cor light 🟧⬜<br>
+<br>⬛🟧 Na terceira imagem foi feita a mesclagem com o fundo na cor dark +1 e as letras na cor primário +1 ⬛🟧<br>
 
 ---
 
